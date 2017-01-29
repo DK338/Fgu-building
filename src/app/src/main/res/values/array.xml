@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="校舍">
+
+        <item>雲起樓</item>
+        <item>德香樓</item>
+        <item>光雲館</item>
+        <item>雲來集</item>
+        <item>雲五館</item>
+        <item>香雲居</item>
+        <item>懷恩館</item>
+        <item>海淨樓</item>
+        <item>雲水軒</item>
+        <item>雲慧樓</item>
+        <item>海雲館</item>
+        <item>林美寮</item>
+        <item>曼陀羅滴水坊</item>
+        <item>百萬人興學紀念館</item>
+        <item>百萬人興學滴水坊</item>
+
+    </string-array>
+</resources>
